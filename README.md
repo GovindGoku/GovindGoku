@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
-- <p>Click here to see my <a href="https://harigovind-portfolio.netlify.app/" >portfolio.</a></p>
+-<p>Click here to see my <a href="https://harigovind-portfolio.netlify.app/" >portfolio.</a></p>
 - 📫 How to reach me **hgovind257@gmail.com**
 - 🤝 **I'm open to collaborating on interesting projects as a developer**
 
